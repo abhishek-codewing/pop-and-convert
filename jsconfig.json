@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "ES5",
+        "paths": {
+            "@/*": ["src/components/*"]
+        }
+    },
+    "exclude": ["node_modules", "dist"]
+}
